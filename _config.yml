@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.89072
+    permalink:
+      path: '/:title/'
+purpose: []
+typography_spectrum: 0.92182
+color:
+  saturation: 0.375
+  brandStrength: 0.5191489
+  lightness: 0.8922052283305675
+  brandColors:
+    - '#FCFBF9'
+    - '#202001'
+    - '#4B4A02'
+    - '#6E6E20'
+    - '#CFD1CD'
+  rhythmicContrast: 0.75
 cta:
   bucket: null
   version: null
   domain: null
-color:
-  saturation: 0.375
-  brandStrength: 0.5625
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#83913c'
-    - '#9e243d'
-    - '#ff78c0'
-  lightness: 0.8922052283305675
-purpose: []
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+layout_spectrum: 0.89072
 name: ShannonCoe
-typography_spectrum: 0.92182
