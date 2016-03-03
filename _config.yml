@@ -1,0 +1,28 @@
+name: ShannonCoe
+favicon: null
+layout_spectrum: 0.5491800112649798
+typography_spectrum: 0.2805108088068664
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.772008178057149
+  lightness: 0.8922052283305675
+  saturation: 0.32473741308785975
+  rhythmicContrast: 0.8991767175029963
+purpose: []
