@@ -1,28 +1,40 @@
-name: ShannonCoe
-favicon: null
-layout_spectrum: 0.89072
-typography_spectrum: 0.92182
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.89072
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.375
+  brandStrength: 0.5625
+  rhythmicContrast: 0.75
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#83913c'
     - '#9e243d'
     - '#ff78c0'
-  brandStrength: 0.5625
   lightness: 0.8922052283305675
-  saturation: 0.375
-  rhythmicContrast: 0.75
 purpose: []
+favicon: null
+name: ShannonCoe
+typography_spectrum: 0.92182
